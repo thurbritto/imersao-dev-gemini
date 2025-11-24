@@ -1,0 +1,457 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap'); /* Importa a fonte Quicksand do Google Fonts */
+
+* {
+    box-sizing: border-box; /* Garante que padding e border não aumentem o tamanho total do elemento */
+}
+
+:root{
+    --bg-color: #08271f; /* deep forest green background */
+    --header-bg: #0b342c; /* header solid green (non-transparent) */
+    --primary-color: #b23f3f; /* primary accent (red) for titles & buttons */
+    --accent-green: #2aa169; /* secondary green accent */
+    --accent-color: #c9b04a; /* warm gold accent */
+    --secondary-color: #eef6ef; /* light text */
+    --muted-color: #8aa79a; /* muted green */
+    --tertiary-color: #c9b04a; /* accent fallback */
+}
+
+body {
+    margin: 0; /* Remove a margem padrão do body */
+    background: var(--bg-color); /* Define a cor de fundo usando uma variável */
+    color: var(--secondary-color); /* Define a cor do texto padrão usando uma variável */
+    font-family: "Quicksand", sans-serif; /* Define a família da fonte */
+}
+
+header {
+    padding: 0.6rem 0.8rem; /* reduzido para cabeçalho mais justo */
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: sticky;
+    top: 0;
+    /* Forest header: solid opaque green to ensure contrast */
+    background-color: var(--header-bg);
+    background-image: linear-gradient(90deg, var(--header-bg), #07322a);
+    z-index: 10;
+    border-bottom: 1px solid rgba(201,176,74,0.08); /* subtle gold divider */
+    gap: 0.6rem;
+}
+
+header h1 {
+    font-size: 1.5rem;
+    margin: 0;
+    font-weight: 700;
+    color: var(--accent-color);
+}
+
+/* Brand/logo */
+.brand { display: flex; align-items: center; }
+.logo {
+    width: 96px; /* um pouco maior para equilibrar com novo header */
+    height: auto;
+    display: block;
+}
+
+/* Controls group on the right (search, select, button) */
+.controls {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+}
+
+/* Make the search input narrower so header stays compact */
+.controls input[type="text"] {
+    width: 18rem; /* aumentado para evitar compressão do texto */
+    min-width: 12rem;
+}
+/* Ensure controls don't compress the button or hide text */
+.controls input[type="text"],
+.controls select {
+    flex: 0 0 auto;
+}
+
+.controls button,
+#botao-busca {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    white-space: nowrap;
+    min-height: 34px;
+    padding: 0.35rem 0.9rem;
+    flex: 0 0 auto; /* do not shrink */
+}
+
+/* Scoped input styling to header controls only */
+.controls input {
+    padding: 0.5rem 0.75rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(0,0,0,0.25);
+    background: rgba(255,255,255,0.06); /* light translucent field for contrast */
+    font-family: inherit;
+    font-size: 1rem;
+    transition: all 0.15s ease;
+    color: var(--secondary-color);
+    margin-right: .5rem;
+    min-width: 0; /* allow shrinking inside flex containers */
+    max-width: 100%;
+}
+
+.controls input::placeholder {
+    font-size: 1.2rem; /* Tamanho da fonte do placeholder */
+    font-weight: 300; /* Peso da fonte do placeholder */
+    color: #ffffff; /* Cor do texto do placeholder (white for contrast) */
+}
+
+/* Garantir fonte consistente para controles do formulário */
+input, select, option, button {
+    font-family: inherit;
+}
+
+/* Força cores escuras no dropdown (opções) para garantir legibilidade */
+#sort-select {
+    color: var(--secondary-color);
+    background-color: rgba(255,255,255,0.04);
+}
+
+#sort-select option {
+    background-color: var(--bg-color);
+    color: var(--secondary-color);
+}
+
+/* Fallback para navegadores que ignoram option styling: coluna quando aberto terá contraste */
+#sort-select:focus { background-color: rgba(7,27,18,0.98); }
+
+/* Alguns browsers exibem seta nativa; esconda para consistência */
+select::-ms-expand { display: none; }
+
+/* Estilização customizada para o seletor de ordenação */
+#sort-select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    padding: 0.45rem 1.2rem 0.45rem 0.7rem;
+    border-radius: 0.75rem;
+    border: 1px solid rgba(0,0,0,0.22);
+    background-color: rgba(255,255,255,0.04);
+    color: var(--secondary-color);
+    font-weight: 600;
+    cursor: pointer;
+    /* seta personalizada com dois gradientes formando um triângulo */
+    background-image: linear-gradient(45deg, transparent 50%, var(--secondary-color) 50%),
+                      linear-gradient(135deg, var(--secondary-color) 50%, transparent 50%);
+    background-position: calc(100% - 0.9rem) calc(50% - 3px), calc(100% - 0.65rem) calc(50% - 3px);
+    background-size: 6px 6px, 6px 6px;
+    background-repeat: no-repeat;
+}
+
+#sort-select:focus {
+    outline: none;
+    border-color: var(--accent-green);
+    box-shadow: 0 0 0 0.12rem rgba(42,161,105,0.08);
+}
+
+/* Pequeno ajuste responsivo para o select no cabeçalho */
+@media (max-width: 480px) {
+    #sort-select { padding-right: 1rem; font-size: 0.95rem; }
+}
+
+div input:focus {
+    outline: none; /* Remove a borda de foco padrão */
+    border-color: var(--bg-color); /* Muda a cor da borda ao focar */
+    box-shadow: 0 0 0 0.1rem var(--tertiary-color); /* Adiciona uma sombra de caixa para indicar foco */
+}
+
+#botao-busca {
+    padding: 0.5rem 1rem;
+    border-radius: 0.75rem;
+    border: none;
+    cursor: pointer;
+    font-family: inherit;
+    font-weight: 600;
+    font-size: 0.95rem;
+    transition: background-color 0.15s ease, color 0.15s ease, transform 0.06s ease;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    margin-left: 0.5rem;
+}
+
+#botao-busca:hover {
+    filter: brightness(0.95);
+    transform: translateY(-1px);
+}
+
+#botao-busca:active {
+    transform: scale(0.98); /* Efeito de clique (diminui o tamanho) */
+}
+
+main {
+    overflow-y: auto;
+    max-width: 96rem;
+    margin: 0 auto;
+    margin-top: 2rem;
+    padding: 0 1rem 3rem;
+    min-height: calc(100vh - 8rem);
+}
+
+.card-container {
+    display: grid;
+    /* Força 3 cartões por linha em telas amplas */
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+}
+
+/* Responsividade: 2 colunas em tablets, 1 coluna em mobile */
+@media (max-width: 1024px) {
+    .card-container {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 600px) {
+    .card-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+article {
+    display: flex;
+    gap: 1rem;
+    align-items: flex-start;
+    background: rgba(255,255,255,0.02);
+    border-radius: 10px;
+    padding: 1rem;
+    margin: 0;
+    transition: transform 0.12s ease, box-shadow 0.12s ease;
+    box-shadow: 0 6px 18px rgba(2,8,6,0.35);
+}
+
+article:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 14px 34px rgba(2,8,6,0.45);
+}
+
+article h2 {
+    margin: 0 0 0.25rem 0;
+    font-weight: 700;
+    font-size: 1.25rem;
+    color: var(--primary-color);
+}
+
+article p {
+    margin: 0.25rem 0;
+    line-height: 1.5;
+    font-size: 0.95rem;
+    color: var(--secondary-color);
+}
+
+.card-content {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Limita a sinopse a algumas linhas e mostra reticências quando for muito longa */
+.sinopse {
+    display: -webkit-box;
+    -webkit-line-clamp: 4; /* mostra até 4 linhas */
+    line-clamp: 4;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.5;
+    margin-bottom: 0.25rem;
+}
+
+/* Truncamento visual para gêneros (previne quebra extra e mantém cards iguais) */
+.generos {
+    display: -webkit-box;
+    -webkit-line-clamp: 2; /* mostra até 2 linhas */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    line-height: 1.4;
+}
+
+.poster {
+    width: 170px; /* aumentei para maior legibilidade */
+    height: auto;
+    border-radius: 6px;
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.trailer-link {
+    margin-top: 0.5rem;
+    display: inline-block;
+    padding: 0.35rem 0.6rem;
+    background: var(--primary-color); /* red button for trailers */
+    color: var(--secondary-color);
+    border-radius: 6px;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.trailer-link:hover { filter: brightness(0.95); transform: translateY(-1px); }
+
+article p strong {
+    color: var(--tertiary-color); /* Cor do texto em negrito */
+    font-weight: 400; /* Peso da fonte */
+}
+
+article a {
+    color: var(--primary-color); /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado padrão */
+    font-weight: 200; /* Peso da fonte */
+}
+
+article a:hover {
+    text-decoration: underline; /* Adiciona sublinhado ao passar o mouse */
+}
+
+.footer {
+    /* Footer stays in normal flow (not fixed/absolute) so it scrolls with content */
+    position: static;
+    width: 100%;
+    color: var(--tertiary-color);
+    background-color: var(--bg-color);
+    padding: 15px 20px;
+    border-top: 1px solid rgba(255,255,255,0.03);
+    font-size: 0.9rem;
+}
+
+.footer-location {
+    color: #9aa0a6; /* Cor do texto */
+    margin-bottom: 10px; /* Margem inferior */
+}
+
+.footer-links {
+    list-style: none; /* Remove os marcadores da lista */
+    display: flex; /* Habilita o layout flexbox */
+    flex-wrap: wrap; /* Permite que os itens quebrem para a próxima linha */
+    justify-content: center; /* Centraliza os itens horizontalmente */
+    gap: 15px; /* Espaçamento entre os links */
+}
+
+.footer-links a {
+    color: var(--secondary-color); /* Cor do link */
+    text-decoration: none; /* Remove o sublinhado */
+    transition: color 0.2s; /* Transição suave para a cor */
+}
+
+.footer-links a:hover {
+    color: var(--accent-color); /* Muda a cor do link ao passar o mouse (variável não definida) */
+}
+
+@media (max-width: 768px) {
+    header { /* Estilos para telas com largura máxima de 768px */
+        /* Mantém logo e controles na mesma linha, mas compactos */
+        flex-direction: row;
+        align-items: center;
+        gap: 0.5rem;
+        padding: 0.5rem 0.6rem;
+    }
+
+    /* Brand ocupa espaço mínimo, controls ocupam o restante */
+    .brand { margin-right: 0.5rem; }
+    .controls {
+        display: flex;
+        gap: 0.4rem;
+        align-items: center;
+        justify-content: flex-end;
+        flex: 1 1 auto;
+        min-width: 0;
+        flex-wrap: nowrap; /* força os controles ficarem lado a lado */
+    }
+
+    /* Input flexível: ocupa espaço disponível, mas não esmaga o botão/select */
+    .controls input[type="text"] {
+        width: auto;
+        flex: 1 1 auto;
+        min-width: 0; /* importante para evitar overflow */
+        max-width: 100%;
+    }
+    .controls select, .controls button { flex: 0 0 auto; }
+
+    /* Minor font-size tweak for inputs on narrow screens */
+    .controls input { font-size: 1.05rem; }
+
+    main { /* Estilos para o main em telas menores */
+        padding: 0 1rem; /* Adiciona espaçamento lateral */
+    }
+
+    article:hover { /* Estilos para o article em telas menores */
+        transform: none; /* Remove o efeito de escala ao passar o mouse */
+    }
+}
+
+@media (max-width: 480px) {
+    header h1 { /* Estilos para o h1 em telas com largura máxima de 480px */
+        font-size: 1rem; /* Reduz ainda mais o tamanho da fonte */
+        max-width: 70%; /* Define uma largura máxima */
+        word-wrap: break-word; /* Permite a quebra de palavras longas */
+    }
+
+    /* Scoped input adjustments for very small screens */
+    .controls input, .controls input::placeholder {
+        font-size: 1rem; /* Reduz o tamanho da fonte */
+    }
+
+    article h2 { /* Estilos para o h2 do article em telas muito pequenas */
+        font-size: 1.3rem; /* Reduz o tamanho da fonte */
+    }
+
+    /* Scope layout changes to header only — avoid affecting card inner divs */
+    header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 0.5rem;
+        flex-wrap: nowrap;
+    }
+
+    header .brand, header .controls {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+    }
+
+    /* Ensure card contents remain left-aligned on very small screens */
+    .card-content {
+        align-items: flex-start;
+        text-align: left;
+    }
+
+    .footer { /* Estilos para o rodapé em telas muito pequenas */
+        display: none; /* Oculta o rodapé */
+    }
+
+    button { /* Estilos para o botão em telas muito pequenas */
+        margin-top: 1rem; /* Adiciona margem no topo */
+    }
+}
+
+/* Very small screens: input on first line; select + button on second line */
+@media (max-width: 420px) {
+    .controls {
+        flex-wrap: wrap;
+        gap: 0.4rem;
+        align-items: center;
+    }
+
+    /* Make the input occupy the first row and full width */
+    .controls input[type="text"] {
+        order: 0;
+        flex: 1 1 100%;
+        width: 100%;
+        min-width: 0;
+        margin-right: 0;
+    }
+
+    /* Keep select and button together on the next row */
+    .controls select, .controls button {
+        order: 1;
+        flex: 0 0 auto;
+    }
+}
+
+/* (Poster styling moved earlier; use .poster rules) */

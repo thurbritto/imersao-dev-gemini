@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>CineNoel — Acervo Natalino & Sessões em Família</title>
+</head>
+<body>
+    <header>
+        <div class="brand">
+            <img src="assets/Cine Noel.png" class="logo" alt="CineNoel logo">
+        </div>
+        <div class="controls">
+            <input type="text" placeholder="Pesquisar título ou sinopse..." id="campo-busca" aria-label="Pesquisar filmes">
+            <select id="sort-select" aria-label="Ordenar lista">
+                <option value="default">Ordenar</option>
+                <option value="az">Ordenar A → Z</option>
+                <option value="za">Ordenar Z → A</option>
+                <option value="rating-desc">Melhores avaliados</option>
+                <option value="rating-asc">Piores avaliados</option>
+                <option value="reviews-desc">Mais avaliações</option>
+                <option value="year-desc">Mais recentes (Ano)</option>
+                <option value="year-asc">Mais antigos (Ano)</option>
+            </select>
+            <button id="botao-busca" onclick="iniciarBusca()">Buscar</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="card-container">
+        </section>
+    </main>
+
+    <footer class="footer">
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/guilhermeonrails">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.alura.com.br/">Alura</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>

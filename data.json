@@ -1,0 +1,1472 @@
+[
+  {
+    "nome": "O Grinch",
+    "sinopse": "Nos arredores de Whoville vive um Grinch em busca de vingança, que planeja arruinar o Natal para todos os cidadãos.",
+    "ano_lancamento": "2000",
+    "nota": "6.4",
+    "avaliações": "318 mil",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "capa": "https://image.tmdb.org/t/p/original/vDtJA6DdwLpwoV60rKLWOCt63gK.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DD0m9t4WHEQ"
+  },
+  {
+    "nome": "O Expresso Polar",
+    "sinopse": "Na véspera de Natal, um menino embarca em uma aventura mágica ao Pólo Norte no Expresso Polar, aprendendo sobre amizade, bravura e o espírito natalino.",
+    "ano_lancamento": "2004",
+    "nota": "6.6",
+    "avaliações": "263 mil",
+    "categorias": [
+      "Animação",
+      "Épico",
+      "Férias",
+      "Família"
+    ],
+    "capa": "https://image.tmdb.org/t/p/original/adXE99ie9wBdpdvdrB2HDpl9aoV.jpg",
+    "trailer": "https://www.youtube.com/watch?v=f0oyHtZiJJs"
+  },
+  {
+    "nome": "Esqueceram de Mim",
+    "sinopse": "Quando seus pais viajaram e o esqueceram sozinho em casa, Kevin pensou que tudo seria uma maravilha. Até que ele se viu forçado a ser o homem da casa, defendendo-a de invasores inesperados e atrapalhados.",
+    "ano_lancamento": "1990",
+    "nota": "7.7",
+    "avaliações": "713 mil",
+    "categorias": [
+      "Comédia",
+      "Família"
+    ],
+    "capa": "https://image.tmdb.org/t/p/original/xg65ONDFNORLVp6fWv9ggcOgWEu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jEDaVHmw7r4"
+  },
+  {
+    "nome": "Milagre na Rua 34",
+    "sinopse": "Após um homem afirmar ser o verdadeiro Papai Noel, uma jovem advogada e sua filha pequena embarcam em uma jornada para provar sua autenticidade, redescobrindo a magia do Natal no processo.",
+    "ano_lancamento": "1994",
+    "nota": "6.6",
+    "avaliações": "48 mil",
+    "categorias": [
+      "Drama",
+      "Família",
+      "Férias"
+    ],
+    "capa": "https://image.tmdb.org/t/p/original/jXijZbmVxln5xwlzsaKzaZmVNId.jpg",
+    "trailer": "https://www.youtube.com/watch?v=leDD6Y-Nyqg"
+  },
+  {
+    "nome": "A Origem dos Guardiões",
+    "sinopse": "Quando o maligno Pitch Black ameaça mergulhar o mundo na escuridão, um grupo de heróis lendários, incluindo o Papai Noel, a Fada do Dente, o Coelho da Páscoa e a Fada da Neve, se unem para proteger a inocência das crianças.",
+    "ano_lancamento": "2012",
+    "nota": "7.2",
+    "avaliações": "206 mil",
+    "categorias": [
+      "Animação",
+      "Aventura",
+      "Fantasia",
+      "Férias",
+      "Família"
+    ],
+    "capa": "https://image.tmdb.org/t/p/original/yK0iCFtWKFnwbbTqMd3nD06cq9g.jpg",
+    "trailer": "https://www.youtube.com/watch?v=s8LFD1Ppidg"
+  },
+  {
+    "nome": "A Felicidade Não Se Compra",
+    "sinopse": "Um homem de negócios desesperado, George Bailey, que pensa em se suicidar na véspera de Natal, é visitado por seu anjo da guarda, Clarence, que lhe mostra como a vida das pessoas seria pior se ele nunca tivesse existido.",
+    "ano_lancamento": "1946",
+    "nota": "8.6",
+    "categorias": [
+      "Drama",
+      "Fantasia",
+      "Clássico",
+      "Natal"
+    ],
+    "avaliações": "495 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/bSqt9rhDZx1Q7UZ86dBPKdNomp2.jpg",
+    "trailer": "https://www.youtube.com/watch?v=iLR3gZrU2Xo"
+  },
+  {
+    "nome": "Simplesmente Amor",
+    "sinopse": "A vida de oito casais diferentes interligados se desenrola em uma série de histórias em Londres, no período que antecede o Natal.",
+    "ano_lancamento": "2003",
+    "nota": "7.6",
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "Natal",
+      "Drama"
+    ],
+    "avaliações": "473 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/7QPeVsr9rcFU9Gl90yg0gTOTpVv.jpg",
+    "trailer": "https://www.youtube.com/watch?v=r3mJrSA1x5s"
+  },
+  {
+    "nome": "Um Duende em Nova York",
+    "sinopse": "Buddy, um humano que foi criado como elfo no Polo Norte, viaja para Nova York para encontrar seu pai biológico, que é um cético empresário de livros infantis.",
+    "ano_lancamento": "2003",
+    "nota": "7.0",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Fantasia",
+      "Natal"
+    ],
+    "avaliações": "278 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/oOleziEempUPu96jkGs0Pj6tKxj.jpg",
+    "trailer": "https://www.youtube.com/watch?v=14o38xfHlXc"
+  },
+  {
+    "nome": "Duro de Matar",
+    "sinopse": "Um policial de Nova York, John McClane, tenta salvar sua esposa e vários outros reféns de terroristas alemães durante uma festa de Natal na Nakatomi Plaza, em Los Angeles.",
+    "ano_lancamento": "1988",
+    "nota": "8.2",
+    "categorias": [
+      "Ação",
+      "Thriller",
+      "Natal",
+      "Clássico"
+    ],
+    "avaliações": "950 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/aJCpHDC6RoGz7d1Fzayl019xnxX.jpg",
+    "trailer": "https://www.youtube.com/watch?v=TotSHi0ViUc"
+  },
+  {
+    "nome": "Meu Papai é Noel",
+    "sinopse": "Scott Calvin acidentalmente mata um homem vestido de Papai Noel na véspera de Natal. Ele é transportado para o Polo Norte e descobre que deve assumir o papel de Papai Noel antes do próximo Natal.",
+    "ano_lancamento": "1994",
+    "nota": "6.5",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Fantasia",
+      "Natal"
+    ],
+    "avaliações": "131 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg",
+    "trailer": "https://www.youtube.com/watch?v=aCc7bTJ8FCM"
+  },
+  {
+    "nome": "Férias Frustradas de Natal",
+    "sinopse": "Clark Griswold decide que ele e sua família terão o 'Natal da Velha Guarda' e insiste em uma extravagância de Natal que rapidamente se transforma em um desastre cômico.",
+    "ano_lancamento": "1989",
+    "nota": "7.5",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Aventura",
+      "Natal"
+    ],
+    "avaliações": "189 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/oat42hUw8XzKYUmfy0YLAxYd484.jpg",
+    "trailer": "https://www.youtube.com/watch?v=tLVd4ipC5Lc"
+  },
+  {
+    "nome": "Klaus",
+    "sinopse": "Um carteiro egoísta é enviado para uma ilha remota acima do Círculo Polar Ártico, onde encontra um fabricante de brinquedos recluso, Klaus.",
+    "ano_lancamento": "2019",
+    "nota": "8.2",
+    "categorias": [
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Natal"
+    ],
+    "avaliações": "173 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg",
+    "trailer": "https://www.youtube.com/watch?v=taE3PwurhYM"
+  },
+  {
+    "nome": "O Estranho Mundo de Jack",
+    "sinopse": "Jack Skellington, o Rei das Abóboras, se cansa de sua rotina anual de assustar pessoas no 'Mundo do Halloween' e descobre o 'Mundo do Natal', decidindo espalhar a alegria do feriado.",
+    "ano_lancamento": "1993",
+    "nota": "8.0",
+    "categorias": [
+      "Animação",
+      "Fantasia",
+      "Musical",
+      "Natal"
+    ],
+    "avaliações": "315 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/oQffRNjK8e19rF7xVYEN8ew0j7b.jpg",
+    "trailer": "https://www.youtube.com/watch?v=IoYahD_xNR0"
+  },
+  {
+    "nome": "Papai Noel às Avessas",
+    "sinopse": "Willie T. Stokes e seu parceiro anão, Marcus, viajam de cidade em cidade se passando por Papai Noel e seu ajudante para roubar lojas de departamento na véspera de Natal.",
+    "ano_lancamento": "2003",
+    "nota": "7.0",
+    "categorias": [
+      "Comédia",
+      "Crime",
+      "Sarcasmo",
+      "Natal"
+    ],
+    "avaliações": "180 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/rfClLIyeHqpMofmrPY8DaLe4z9x.jpg",
+    "trailer": "https://www.youtube.com/watch?v=cvXyEiIoH2c"
+  },
+  {
+    "nome": "O Amor Não Tira Férias",
+    "sinopse": "Duas mulheres, uma da Califórnia e outra da Inglaterra, trocam de casas durante o feriado de Natal depois de terem seus corações partidos, encontrando novos interesses amorosos.",
+    "ano_lancamento": "2006",
+    "nota": "6.9",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Drama",
+      "Natal"
+    ],
+    "avaliações": "213 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/6fbqG49Q7IWBWdyJ7asNTcNbnG6.jpg",
+    "trailer": "https://www.youtube.com/watch?v=wk9caHO3pW0"
+  },
+  {
+    "nome": "Gremlins",
+    "sinopse": "Um jovem quebra três regras importantes ao cuidar de seu novo animal de estimação 'mogwai', liberando uma horda de pequenas e malévolas criaturas que aterrorizam uma pequena cidade na época do Natal.",
+    "ano_lancamento": "1984",
+    "nota": "7.3",
+    "categorias": [
+      "Comédia",
+      "Terror",
+      "Fantasia",
+      "Natal"
+    ],
+    "avaliações": "230 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/6m0F7fsXjQvUbCZrPWcJNrjvIui.jpg",
+    "trailer": "https://www.youtube.com/watch?v=PXXZx6skXrw"
+  },
+  {
+    "nome": "Os Fantasmas de Scrooge",
+    "sinopse": "Uma adaptação animada 3D do conto clássico de Charles Dickens, onde Ebenezer Scrooge é confrontado pelos fantasmas do Natal Passado, Presente e Futuro.",
+    "ano_lancamento": "2009",
+    "nota": "6.8",
+    "categorias": [
+      "Animação",
+      "Fantasia",
+      "Drama",
+      "Natal"
+    ],
+    "avaliações": "140 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/goHDZUnqZJ7FN4h48Qh6MzJNExl.jpg",
+    "trailer": null
+  },
+  {
+    "nome": "Natal Branco",
+    "sinopse": "Um quarteto de canto e dança se une para salvar a pousada de seu ex-general, que está passando por dificuldades financeiras no inverno de Vermont.",
+    "ano_lancamento": "1954",
+    "nota": "7.5",
+    "categorias": [
+      "Musical",
+      "Romance",
+      "Comédia",
+      "Clássico",
+      "Natal"
+    ],
+    "avaliações": "45 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/A5kBQsHKbIptxJyELEpHQJROCRj.jpg",
+    "trailer": "https://www.youtube.com/watch?v=3n3-UtakD3I"
+  },
+  {
+    "nome": "Crônicas de Natal",
+    "sinopse": "Os irmãos Kate e Teddy Pierce planejam filmar a chegada do Papai Noel. Depois de pegá-lo, eles acidentalmente causam um acidente com seu trenó e precisam ajudar o Papai Noel a salvar o Natal.",
+    "ano_lancamento": "2018",
+    "nota": "6.1",
+    "categorias": [
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Fantasia",
+      "Natal"
+    ],
+    "avaliações": "58 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/5Il2EMSF2KecrUKZPuen6BZmaCP.jpg",
+    "trailer": "https://www.youtube.com/watch?v=YaeDa_Uempk"
+  },
+  {
+    "nome": "Uma História de Natal",
+    "sinopse": "Na década de 1940, um jovem chamado Ralphie tenta convencer a todos de que a arma de ar comprimido Red Ryder BB deve ser o presente de Natal perfeito.",
+    "ano_lancamento": "1983",
+    "nota": "7.9",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Clássico",
+      "Natal"
+    ],
+    "avaliações": "130 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/34nSHYqmb7222tiqiuKqKJmZiQa.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ptbPSR9pAB8"
+  },
+  {
+    "nome": "Um Herói de Natal",
+    "sinopse": "Um pai viciado em trabalho tenta desesperadamente conseguir o brinquedo de ação mais vendido da temporada de Natal, o Turbo-Man, para seu filho.",
+    "ano_lancamento": "1996",
+    "nota": "5.7",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Aventura",
+      "Natal"
+    ],
+    "avaliações": "84 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=04CWFXHYMGk"
+  },
+  {
+    "nome": "O Homem que Inventou o Natal",
+    "sinopse": "Em 1843, o famoso escritor Charles Dickens estava em crise e precisava urgentemente de um sucesso. Ele se propõe a escrever e publicar 'Um Conto de Natal' em apenas seis semanas.",
+    "ano_lancamento": "2017",
+    "nota": "7.0",
+    "categorias": [
+      "Biografia",
+      "Drama",
+      "Fantasia",
+      "Histórico",
+      "Natal"
+    ],
+    "avaliações": "16 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/qRkzRue5rTzB6PESXBJCKqROOXC.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nx3ctBjG6yI"
+  },
+  {
+    "nome": "A Estação que Mudou Tudo",
+    "sinopse": "Harper convida sua namorada Abby para passar o Natal com sua família. No entanto, Abby descobre que Harper não revelou a seus pais conservadores que ela é lésbica.",
+    "ano_lancamento": "2020",
+    "nota": "6.6",
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "LGBTQ+",
+      "Natal"
+    ],
+    "avaliações": "75 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Missão: Salvar o Natal",
+    "sinopse": "O filho desajeitado de Papai Noel, Arthur, parte em uma missão para entregar o presente perdido de uma garota antes do amanhecer do dia de Natal.",
+    "ano_lancamento": "2011",
+    "nota": "7.1",
+    "categorias": [
+      "Animação",
+      "Aventura",
+      "Comédia",
+      "Família",
+      "Natal"
+    ],
+    "avaliações": "82 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Surpresas do Amor",
+    "sinopse": "Um casal recém-casado precisa visitar os quatro pais divorciados no dia de Natal, resultando em quatro celebrações caóticas e muito diferentes.",
+    "ano_lancamento": "2008",
+    "nota": "5.7",
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "Família",
+      "Natal"
+    ],
+    "avaliações": "85 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/zixj44TC7rwzpxtJAG5OzFJnEqe.jpg",
+    "trailer": "https://www.youtube.com/watch?v=6veo6Js7HUE"
+  },
+  {
+    "nome": "Uma Segunda Chance para Amar",
+    "sinopse": "Kate, que trabalha como elfo em uma loja de Natal, está cansada de sua vida. Quando ela conhece Tom, que parece bom demais para ser verdade, sua vida começa a tomar um rumo inesperado.",
+    "ano_lancamento": "2019",
+    "nota": "6.5",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Drama",
+      "Natal"
+    ],
+    "avaliações": "105 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/kDEjffiKgjuGo2DRzsqfjvW0CQh.jpg",
+    "trailer": "https://www.youtube.com/watch?v=z9CEIcmWmtA"
+  },
+  {
+    "nome": "Os Fantasmas Contra-Atacam",
+    "sinopse": "Um cínico executivo de televisão, Frank Cross, que odeia o Natal, é visitado por três fantasmas com a missão de fazê-lo redescobrir o espírito natalino.",
+    "ano_lancamento": "1988",
+    "nota": "6.9",
+    "categorias": [
+      "Comédia",
+      "Fantasia",
+      "Drama",
+      "Clássico",
+      "Natal"
+    ],
+    "avaliações": "100 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/uO0znfB2ZzTXA1IS7jkrjNbpkYK.jpg",
+    "trailer": "https://www.youtube.com/watch?v=3YjrsSEEreY"
+  },
+  {
+    "nome": "Natal em 8 Bits",
+    "sinopse": "Ambientado no final dos anos 80, o filme segue a jornada de um garoto de 10 anos que tenta conseguir o videogame mais popular da época: o Nintendo Entertainment System (NES).",
+    "ano_lancamento": "2021",
+    "nota": "6.7",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Nostalgia",
+      "Natal"
+    ],
+    "avaliações": "12 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg",
+    "trailer": "https://www.youtube.com/watch?v=CI-YWRK0VPo"
+  },
+  {
+    "nome": "O Presente de Natal de Bob",
+    "sinopse": "Baseado em uma história real. Um músico de rua se esforça para sobreviver durante um inverno rigoroso em Londres com seu gato de rua, Bob, que o ajuda a recuperar o espírito natalino.",
+    "ano_lancamento": "2020",
+    "nota": "7.1",
+    "categorias": [
+      "Drama",
+      "Biografia",
+      "Família",
+      "Natal"
+    ],
+    "avaliações": "6 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Natal de Charlie Brown",
+    "sinopse": "Sentindo-se deprimido com a comercialização do Natal, Charlie Brown tenta encontrar o verdadeiro significado do feriado.",
+    "ano_lancamento": "1965",
+    "nota": "8.3",
+    "categorias": [
+      "Animação",
+      "Curta-metragem",
+      "Família",
+      "Clássico",
+      "Natal"
+    ],
+    "avaliações": "39 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/vtaufTzJBMJAeziQA1eP4BLU24C.jpg",
+    "trailer": "https://www.youtube.com/watch?v=dV9sgMB-BKE"
+  },
+  {
+    "nome": "O Pai da Noiva",
+    "sinopse": "Um pai frustrado precisa correr contra o tempo para garantir que sua família tenha um Natal perfeito, o que envolve conseguir o brinquedo mais popular do ano para seu filho.",
+    "ano_lancamento": "1996",
+    "nota": "5.7",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Aventura",
+      "Infantil"
+    ],
+    "avaliações": "140 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/rj4LBtwQ0uGrpBnCELr716Qo3mw.jpg",
+    "trailer": "https://www.youtube.com/watch?v=yCg8WNQwe0A"
+  },
+  {
+    "nome": "Jejum de Amor",
+    "sinopse": "Uma mulher viaja para a casa de seu namorado na Nova Inglaterra para as festas de fim de ano, onde é recebida com frieza pela família dele, cheia de segredos e tensões.",
+    "ano_lancamento": "2005",
+    "nota": "7.1",
+    "categorias": [
+      "Drama",
+      "Comédia",
+      "Romance",
+      "Família"
+    ],
+    "avaliações": "180 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/lu86Y9zTPH3neCiUzLzHCEFHf7f.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FKghQCbQOwY"
+  },
+  {
+    "nome": "Trocando as Bolas",
+    "sinopse": "Um rico corretor da bolsa e um mendigo trapaceiro veem suas vidas trocadas devido a uma aposta cruel feita por dois irmãos milionários no período de Natal.",
+    "ano_lancamento": "1983",
+    "nota": "7.5",
+    "categorias": [
+      "Comédia",
+      "Fins de Ano",
+      "Sátira",
+      "Clássico"
+    ],
+    "avaliações": "190 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/8mBuLCOcpWnmYtZc4aqtvDXslv6.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Fupg2r1EJ9w"
+  },
+  {
+    "nome": "Arthur Christmas",
+    "sinopse": "O filho desajeitado de Papai Noel descobre que a operação ultratecnológica de entrega de presentes do Polo Norte perdeu uma criança. Ele deve correr contra o tempo para entregar o presente restante antes do amanhecer do Natal.",
+    "ano_lancamento": "2011",
+    "nota": "7.1",
+    "categorias": [
+      "Animação",
+      "Aventura",
+      "Família",
+      "Comédia"
+    ],
+    "avaliações": "95 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/brELZkSbkLrcCXJ0xt5hQUMXhut.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7tk-WZSqIGQ"
+  },
+  {
+    "nome": "O Grinch (Live Action - 2000)",
+    "sinopse": "A adaptação em live action da clássica história de Dr. Seuss sobre uma criatura verde e amargurada que odeia o Natal e tenta roubar os presentes de Quemlândia.",
+    "ano_lancamento": "2000",
+    "nota": "6.2",
+    "categorias": [
+      "Fantasia",
+      "Comédia",
+      "Musical",
+      "Família"
+    ],
+    "avaliações": "250 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "A Loja da Esquina",
+    "sinopse": "Dois colegas de trabalho em Budapeste que mal se suportam, sem saber, mantêm um relacionamento de correspondência anônima no qual se apaixonaram profundamente, tudo isso ambientado na temporada de compras natalinas.",
+    "ano_lancamento": "1940",
+    "nota": "8.1",
+    "categorias": [
+      "Clássico",
+      "Romance",
+      "Comédia",
+      "Drama"
+    ],
+    "avaliações": "45 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/dZ1aEzGYRiqJwPfjS6VL7wUkHmF.jpg",
+    "trailer": "https://www.youtube.com/watch?v=1pJLZ6mhKp4"
+  },
+  {
+    "nome": "O Quebra-Nozes e os Quatro Reinos",
+    "sinopse": "Clara precisa de uma chave mágica para abrir um presente de sua falecida mãe e acaba entrando em um mundo paralelo de Quatro Reinos, onde a Rainha Gengibre ameaça a paz.",
+    "ano_lancamento": "2018",
+    "nota": "5.5",
+    "categorias": [
+      "Fantasia",
+      "Aventura",
+      "Família",
+      "Ação"
+    ],
+    "avaliações": "65 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/9vPDY8e7YxLwgVum7YZIUJbr4qc.jpg",
+    "trailer": "https://www.youtube.com/watch?v=FacrK2lLbYU"
+  },
+  {
+    "nome": "Noite de Natal",
+    "sinopse": "Três amigos se reúnem em Nova York na véspera de Natal em busca da festa mais épica da cidade, como fazem todos os anos, mas esta pode ser a última vez que o fazem.",
+    "ano_lancamento": "2015",
+    "nota": "6.4",
+    "categorias": [
+      "Comédia",
+      "Amizade",
+      "Fins de Ano",
+      "Adulto"
+    ],
+    "avaliações": "90 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/9x9vdwo74pJHsnaj6coMzBcZuc6.jpg",
+    "trailer": "https://www.youtube.com/watch?v=PHWmAWdZjOU"
+  },
+  {
+    "nome": "Festa de Natal da Firma",
+    "sinopse": "Quando a CEO de uma empresa decide fechar a filial de seu irmão, ele e o chefe de tecnologia se unem para organizar uma épica festa de Natal corporativa para conquistar um cliente importante.",
+    "ano_lancamento": "2016",
+    "nota": "5.8",
+    "categorias": [
+      "Comédia",
+      "Festa",
+      "Adulto",
+      "Fins de Ano"
+    ],
+    "avaliações": "110 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/7r3w3cPTbNEIr1imb8zXyeIJCJe.jpg",
+    "trailer": "https://www.youtube.com/watch?v=xkE4WelDfmY"
+  },
+  {
+    "nome": "Temporada de Caça",
+    "sinopse": "Abby planeja pedir sua namorada em casamento durante a ceia de Natal de sua família, mas descobre que ela ainda não se assumiu para seus pais conservadores.",
+    "ano_lancamento": "2020",
+    "nota": "6.6",
+    "categorias": [
+      "Comédia Romântica",
+      "LGBTQ+",
+      "Família",
+      "Drama"
+    ],
+    "avaliações": "75 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Príncipe de Natal",
+    "sinopse": "Uma jornalista americana é enviada para cobrir o Príncipe Richard, um playboy que está prestes a herdar o trono, e acaba se envolvendo romanticamente com ele.",
+    "ano_lancamento": "2017",
+    "nota": "5.7",
+    "categorias": [
+      "Romance",
+      "Natal",
+      "Netflix",
+      "Comédia"
+    ],
+    "avaliações": "25 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/d5WmD3FEnk8WxwhmYCBsg45J2Ht.jpg",
+    "trailer": "https://www.youtube.com/watch?v=O9nQzcd-VRM"
+  },
+  {
+    "nome": "A Princesa e a Plebeia",
+    "sinopse": "Uma confeiteira de Chicago e uma duquesa que parecem sósias decidem trocar de lugar duas semanas antes do Natal. As coisas se complicam quando elas se apaixonam pelos homens errados.",
+    "ano_lancamento": "2018",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Troca de Identidade",
+      "Natal"
+    ],
+    "avaliações": "50 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/A8XgZE8CsHiYN243MEd07GLCep.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-WBhj57fHeI"
+  },
+  {
+    "nome": "Jesus, o Nascimento",
+    "sinopse": "A história de Maria, José e o nascimento de Jesus, contada do ponto de vista dos animais que testemunharam o evento, incluindo um burro corajoso e seus amigos.",
+    "ano_lancamento": "2017",
+    "nota": "6.2",
+    "categorias": [
+      "Animação",
+      "Religioso",
+      "Família",
+      "Aventura"
+    ],
+    "avaliações": "10 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/nd0oj0lmEx1X8WraiVkYMZlDjKk.jpg",
+    "trailer": "https://www.youtube.com/watch?v=UiSfup00uZY"
+  },
+  {
+    "nome": "Poderosas Chefes de Natal",
+    "sinopse": "Uma CEO workaholic tenta fechar um acordo milionário antes do Natal, mas sua vida é virada de cabeça para baixo por três fantasmas natalinos femininos, inspirados em Dickens.",
+    "ano_lancamento": "2022",
+    "nota": "5.3",
+    "categorias": [
+      "Comédia",
+      "Fantasia",
+      "Adaptação",
+      "Romance"
+    ],
+    "avaliações": "15 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal de Imprevistos",
+    "sinopse": "Um homem é forçado a passar o Natal com sua família disfuncional, que ele tenta evitar o ano todo, resultando em uma série de desastres cômicos e tensões reveladas.",
+    "ano_lancamento": "2004",
+    "nota": "5.4",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Fins de Ano"
+    ],
+    "avaliações": "55 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Noel",
+    "sinopse": "Várias histórias de Natal se cruzam em Nova York: uma policial idosa, um jovem que persegue o espírito natalino e um homem que acredita ser Papai Noel.",
+    "ano_lancamento": "2004",
+    "nota": "6.3",
+    "categorias": [
+      "Drama",
+      "Romance",
+      "Interligado",
+      "Fé"
+    ],
+    "avaliações": "18 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/pPYlVwLF8mRFxCiXFxHeFN0d4ON.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-pmlZ_IfNNk"
+  },
+  {
+    "nome": "O Presente de Natal",
+    "sinopse": "Uma ambiciosa editora viaja para uma pequena cidade para herdar uma pousada, descobrindo que precisa morar lá por uma semana durante o Natal para receber a propriedade.",
+    "ano_lancamento": "2015",
+    "nota": "6.8",
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Hallmark",
+      "Fins de Ano"
+    ],
+    "avaliações": "8 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/kHNm8dI4riNvgVRrVRGyFfr85nw.jpg",
+    "trailer": null
+  },
+  {
+    "nome": "O Natal de Dolly Parton na Praça",
+    "sinopse": "Uma mulher rica e insensível retorna à sua cidade natal para forçar a venda de terras antes do Natal, mas uma intervenção angelical pode mudar seus planos.",
+    "ano_lancamento": "2020",
+    "nota": "5.9",
+    "categorias": [
+      "Musical",
+      "Fantasia",
+      "Família",
+      "Netflix"
+    ],
+    "avaliações": "5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Terror na Noite de Natal",
+    "sinopse": "Durante a noite de Natal, um adolescente se encontra preso em casa com seu irmão mais novo e um grupo de intrusos sádicos que querem brincar de um jogo mortal.",
+    "ano_lancamento": "2016",
+    "nota": "6.5",
+    "categorias": [
+      "Terror",
+      "Thriller",
+      "Sombrio",
+      "Natal"
+    ],
+    "avaliações": "25 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Batman: O Retorno",
+    "sinopse": "O Pinguim se une a um empresário corrupto para assumir o controle de Gotham. Batman deve enfrentar tanto o Pinguim quanto a sedutora Mulher-Gato durante o Natal da cidade.",
+    "ano_lancamento": "1992",
+    "nota": "7.0",
+    "categorias": [
+      "Ação",
+      "Super-herói",
+      "Sombrio",
+      "Natal"
+    ],
+    "avaliações": "400 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/jKBjeXM7iBBV9UkUcOXx3m7FSHY.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ZCaE6AIk0DM"
+  },
+  {
+    "nome": "Simplesmente Acontece",
+    "sinopse": "Um homem de negócios volta para sua cidade natal para o Natal com a intenção de fazer sexo com sua antiga paixão do colégio, mas a amizade inesperada atrapalha seus planos.",
+    "ano_lancamento": "2005",
+    "nota": "6.2",
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "Amizade",
+      "Férias"
+    ],
+    "avaliações": "115 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "A Loja do Natal",
+    "sinopse": "Baseado em fatos reais, um filme sobre uma loja de presentes de Natal que permanece aberta o ano inteiro em Nova York, tornando-se um refúgio para pessoas que buscam o espírito natalino.",
+    "ano_lancamento": "2019",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Hallmark",
+      "Independente"
+    ],
+    "avaliações": "7 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Deus Sabe o Quanto Eu Amei",
+    "sinopse": "Um ladrão e uma defensora pública se apaixonam enquanto viajam juntos de Nova York até a Filadélfia no Natal, com a polícia em seu encalço.",
+    "ano_lancamento": "1940",
+    "nota": "7.8",
+    "categorias": [
+      "Comédia Romântica",
+      "Drama",
+      "Clássico",
+      "Road Movie"
+    ],
+    "avaliações": "15 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Natal de Fred Claus",
+    "sinopse": "O irmão mais velho e ressentido de Papai Noel (Fred Claus) é forçado a trabalhar no Polo Norte em troca de dinheiro, mas sua má conduta ameaça arruinar o Natal para todos.",
+    "ano_lancamento": "2007",
+    "nota": "5.6",
+    "categorias": [
+      "Comédia",
+      "Família",
+      "Fantasia"
+    ],
+    "avaliações": "50 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Noite Infeliz",
+    "sinopse": "Uma equipe de elite de mercenários invade uma mansão rica na véspera de Natal, mas Papai Noel está na casa e precisa salvar a família refém usando suas habilidades.",
+    "ano_lancamento": "2022",
+    "nota": "6.7",
+    "categorias": [
+      "Ação",
+      "Comédia",
+      "Thriller",
+      "Violento"
+    ],
+    "avaliações": "120 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/e8CpMgdyihz9Td7amQDqubPuzfN.jpg",
+    "trailer": "https://www.youtube.com/watch?v=a53e4HHnx_s"
+  },
+  {
+    "nome": "A Última Ceia de Natal",
+    "sinopse": "Uma família afro-americana se reúne em Atlanta para o Natal, mas as tensões surgem quando segredos são revelados e desafios financeiros ameaçam a união familiar.",
+    "ano_lancamento": "2007",
+    "nota": "6.3",
+    "categorias": [
+      "Drama",
+      "Comédia",
+      "Família"
+    ],
+    "avaliações": "12 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Uma Noite de Loucura",
+    "sinopse": "Um estudante universitário em apuros promete ir para casa para o Natal para recuperar um carro, mas enfrenta uma série de desventuras e obstáculos na véspera de Natal.",
+    "ano_lancamento": "1998",
+    "nota": "5.4",
+    "categorias": [
+      "Comédia",
+      "Aventura",
+      "Adolescente",
+      "Férias"
+    ],
+    "avaliações": "25 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "A Canção da Vitória",
+    "sinopse": "Um cantor e dançarino de Nova York se aposenta e abre uma pousada em Connecticut que só abre nos feriados, resultando em números musicais espetaculares e um romance.",
+    "ano_lancamento": "1942",
+    "nota": "7.5",
+    "categorias": [
+      "Musical",
+      "Clássico",
+      "Romance",
+      "Feriados"
+    ],
+    "avaliações": "25 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/cqLLIyJFjLr6jGOxWVEHG11WGzB.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ionMhYBMpek"
+  },
+  {
+    "nome": "O Milagre de Natal de Jonathan Toomey",
+    "sinopse": "Um carpinteiro amargurado e viúvo se torna o único capaz de esculpir figuras de presépio para uma viúva e seu filho, aprendendo lentamente a amar novamente.",
+    "ano_lancamento": "2007",
+    "nota": "7.3",
+    "categorias": [
+      "Drama",
+      "Família",
+      "Fé",
+      "Emocional"
+    ],
+    "avaliações": "5 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/oQT3V3hGrkeedhygz7DH7iIyN4M.jpg",
+    "trailer": "https://www.youtube.com/watch?v=efk9N9xggw4"
+  },
+  {
+    "nome": "Um Passado de Presente",
+    "sinopse": "Um cavaleiro medieval do século XIV é magicamente transportado para a América moderna durante o Natal e se apaixona por uma professora de ciências desiludida com o amor.",
+    "ano_lancamento": "2019",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Comédia",
+      "Viagem no Tempo"
+    ],
+    "avaliações": "35 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg",
+    "trailer": "https://www.youtube.com/watch?v=-JtwROpSVWc"
+  },
+  {
+    "nome": "Scrooge: Um Conto de Natal",
+    "sinopse": "Musical vibrante que adapta a clássica história de Charles Dickens sobre Ebenezer Scrooge, um velho avarento que é visitado por três espíritos na véspera de Natal.",
+    "ano_lancamento": "1970",
+    "nota": "7.5",
+    "categorias": [
+      "Musical",
+      "Clássico",
+      "Fantasia",
+      "Família"
+    ],
+    "avaliações": "8.5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal em Família",
+    "sinopse": "Uma mulher conservadora acompanha seu namorado até a casa excêntrica de sua família liberal para o Natal, mas o choque cultural e as dinâmicas familiares complicadas ameaçam a celebração.",
+    "ano_lancamento": "2005",
+    "nota": "6.3",
+    "categorias": [
+      "Comédia",
+      "Drama",
+      "Romance"
+    ],
+    "avaliações": "95 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Herói de Brinquedo",
+    "sinopse": "Dois pais obcecados tentam comprar o mesmo brinquedo de ação popular, 'Turbo Man', na véspera de Natal, levando a uma competição frenética e hilária pela cidade.",
+    "ano_lancamento": "1996",
+    "nota": "5.7",
+    "categorias": [
+      "Comédia",
+      "Aventura",
+      "Família"
+    ],
+    "avaliações": "103 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/lHLOUt0ZIQLC5asHdIQBoTUvaEp.jpg",
+    "trailer": "https://www.youtube.com/watch?v=04CWFXHYMGk"
+  },
+  {
+    "nome": "Um Natal Muito, Muito Louco",
+    "sinopse": "Um casal decide boicotar o Natal e fazer um cruzeiro tropical, mas é forçado a montar uma festa de última hora quando sua filha decide voltar para casa inesperadamente.",
+    "ano_lancamento": "2004",
+    "nota": "5.4",
+    "categorias": [
+      "Comédia",
+      "Família"
+    ],
+    "avaliações": "43 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/q866vL3KhAjbkZH1enT7AoxmRHx.jpg",
+    "trailer": "https://www.youtube.com/watch?v=nHC6hmTvsLo"
+  },
+  {
+    "nome": "Missão: Salvar o Noel",
+    "sinopse": "Quando o Papai Noel se aposenta, sua filha otimista, Noelle, deve viajar para o Arizona para convencer seu irmão, que sofre de ansiedade, a assumir o manto do Natal e salvar o feriado.",
+    "ano_lancamento": "2019",
+    "nota": "6.3",
+    "categorias": [
+      "Fantasia",
+      "Comédia",
+      "Aventura",
+      "Família"
+    ],
+    "avaliações": "19 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Casamento Real de Natal",
+    "sinopse": "Uma jovem costureira de Nova York se apaixona por um príncipe europeu que tenta esconder sua verdadeira identidade durante uma visita aos EUA para as festas.",
+    "ano_lancamento": "2014",
+    "nota": "6.2",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Realeza"
+    ],
+    "avaliações": "4.5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Natal de Cinderela",
+    "sinopse": "Uma planejadora de festas ambiciosa, presa sob o domínio de sua madrasta e meias-irmãs malvadas, recebe um convite para um baile de gala de Natal, onde ela se reencontra com um ex-namorado famoso.",
+    "ano_lancamento": "2016",
+    "nota": "5.9",
+    "categorias": [
+      "Romance",
+      "Conto de Fadas",
+      "Comédia"
+    ],
+    "avaliações": "3.1 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Fuga do Natal",
+    "sinopse": "Um homem tem a oportunidade de reviver seu pior Natal várias vezes, permitindo-lhe corrigir seus erros e talvez finalmente conquistar a garota de seus sonhos.",
+    "ano_lancamento": "2006",
+    "nota": "6.1",
+    "categorias": [
+      "Fantasia",
+      "Comédia",
+      "Viagem no Tempo",
+      "Romance"
+    ],
+    "avaliações": "2.9 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg",
+    "trailer": "https://www.youtube.com/watch?v=jpyBrTSUO5k"
+  },
+  {
+    "nome": "Anjos de Natal",
+    "sinopse": "Uma família presa em sua cabana de férias na neve, sem eletricidade ou comunicação, recebe ajuda inesperada de um casal misterioso que pode ser mais do que aparenta.",
+    "ano_lancamento": "2015",
+    "nota": "6.8",
+    "categorias": [
+      "Drama",
+      "Mistério",
+      "Fé",
+      "Família"
+    ],
+    "avaliações": "1.5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Melhor Presente",
+    "sinopse": "Uma reunião de amigos de longa data durante o Natal é marcada por rivalidades antigas, problemas conjugais e segredos inesperados que vêm à tona.",
+    "ano_lancamento": "2013",
+    "nota": "6.7",
+    "categorias": [
+      "Comédia",
+      "Drama",
+      "Reunião"
+    ],
+    "avaliações": "15 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Resgate no Natal",
+    "sinopse": "Quando Papai Noel cai em Londres e perde sua sacola mágica antes do Natal, ele precisa da ajuda de um pai e seu filho para fugir da polícia e salvar o feriado.",
+    "ano_lancamento": "2014",
+    "nota": "6.3",
+    "categorias": [
+      "Comédia",
+      "Aventura",
+      "Família",
+      "Britânico"
+    ],
+    "avaliações": "8 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Calendário de Feriados",
+    "sinopse": "Uma fotógrafa talentosa, mas frustrada, herda um antigo calendário do Advento que misteriosamente prevê eventos futuros e a leva a um novo romance.",
+    "ano_lancamento": "2018",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Comédia"
+    ],
+    "avaliações": "12 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Desfile de Natal",
+    "sinopse": "Uma jovem que trabalha em uma galeria de arte retorna à sua pequena cidade natal para ajudar a salvar o tradicional desfile de Natal e acaba se apaixonando por um charmoso proprietário de uma loja.",
+    "ano_lancamento": "2014",
+    "nota": "6.5",
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Férias"
+    ],
+    "avaliações": "2.2 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "A Véspera de Natal",
+    "sinopse": "Três amigos de infância se reúnem na Véspera de Natal para sua tradicional noite de farra em Nova York, mas percebem que suas vidas estão em diferentes estágios de maturidade.",
+    "ano_lancamento": "2015",
+    "nota": "6.3",
+    "categorias": [
+      "Comédia",
+      "Festa",
+      "Amizade",
+      "Adulto"
+    ],
+    "avaliações": "65 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Conto de Natal dos Muppets",
+    "sinopse": "Os Muppets contam sua versão do clássico conto de Dickens, com Caco, o Sapo, como Bob Cratchit e Michael Caine interpretando o rígido e mesquinho Ebenezer Scrooge.",
+    "ano_lancamento": "1992",
+    "nota": "7.7",
+    "categorias": [
+      "Fantasia",
+      "Família",
+      "Musical",
+      "Comédia"
+    ],
+    "avaliações": "45 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal Sem Filtro",
+    "sinopse": "Dois estranhos concordam em ser o acompanhante um do outro em feriados ao longo de um ano, incluindo o Natal, para evitar o julgamento de suas famílias.",
+    "ano_lancamento": "2020",
+    "nota": "6.1",
+    "categorias": [
+      "Comédia",
+      "Romance",
+      "Feriados"
+    ],
+    "avaliações": "98 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Natal dos Cooper",
+    "sinopse": "Quatro gerações da família Cooper se reúnem para a tradicional celebração de Natal, revelando segredos surpreendentes e testando os laços familiares.",
+    "ano_lancamento": "2015",
+    "nota": "5.7",
+    "categorias": [
+      "Comédia",
+      "Drama",
+      "Família",
+      "Conjunto"
+    ],
+    "avaliações": "25 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/fPW1BHZhUEViOmDAHFfyLezoQdI.jpg",
+    "trailer": "https://www.youtube.com/watch?v=mOc1NEHEh3M"
+  },
+  {
+    "nome": "O Cavalheiro do Natal",
+    "sinopse": "Um cavaleiro medieval inglês é magicamente transportado para os dias atuais em Ohio durante o Natal, onde se apaixona por uma professora cética.",
+    "ano_lancamento": "2019",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Viagem no Tempo"
+    ],
+    "avaliações": "18 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Mágica de Natal",
+    "sinopse": "Uma assistente social cética descobre que tem a capacidade de ouvir e conversar com o Papai Noel, o que a ajuda a reacender seu espírito natalino e encontrar o amor.",
+    "ano_lancamento": "2011",
+    "nota": "6.7",
+    "categorias": [
+      "Fantasia",
+      "Romance",
+      "Família"
+    ],
+    "avaliações": "1.9 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal em Conway",
+    "sinopse": "Um homem excêntrico e rabugento decide realizar o último desejo de sua esposa doente: levá-la para o carrossel de Natal em Conway, Carolina do Norte.",
+    "ano_lancamento": "2013",
+    "nota": "7.4",
+    "categorias": [
+      "Drama",
+      "Romance",
+      "Independente"
+    ],
+    "avaliações": "3.5 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/wF0jcqPfIz0Se5LNFVpu7dkb6Go.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gwaGIMMDJMA"
+  },
+  {
+    "nome": "Cartão de Natal",
+    "sinopse": "Um soldado em serviço no Afeganistão recebe um cartão de Natal aleatório de uma moradora de sua cidade natal, e, após retornar, decide encontrá-la.",
+    "ano_lancamento": "2006",
+    "nota": "7.3",
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Militar"
+    ],
+    "avaliações": "4.1 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/xmw4hOBdpyzUyDJePhLh8oQTvO.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DMNQgd8qLhU"
+  },
+  {
+    "nome": "O Mistério do Natal",
+    "sinopse": "Quando um Papai Noel é roubado em uma loja, o detetive responsável precisa resolver o caso antes que a cidade perca a fé no Natal e o espírito festivo desapareça.",
+    "ano_lancamento": "2022",
+    "nota": "5.6",
+    "categorias": [
+      "Mistério",
+      "Comédia",
+      "Policial"
+    ],
+    "avaliações": "900",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Pedido de Natal",
+    "sinopse": "Uma assistente de publicidade cética faz um desejo na véspera de Natal para ter a coragem de dizer o que realmente pensa, mas o desejo se torna literal e a coloca em apuros.",
+    "ano_lancamento": "2011",
+    "nota": "6.9",
+    "categorias": [
+      "Comédia",
+      "Fantasia",
+      "Romance"
+    ],
+    "avaliações": "2.8 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Presente Perfeito",
+    "sinopse": "Um solteiro viciado em trabalho concorda em fingir ser o namorado de uma mãe solteira durante o Natal para que ela possa impressionar sua família.",
+    "ano_lancamento": "2007",
+    "nota": "6.1",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Falsos Namorados"
+    ],
+    "avaliações": "5.3 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal no Hotel Plaza",
+    "sinopse": "Duas pessoas se unem em Nova York para planejar o centenário do famoso Hotel Plaza e acabam descobrindo o amor enquanto investigam a história de Natal do hotel.",
+    "ano_lancamento": "2019",
+    "nota": "6.6",
+    "categorias": [
+      "Romance",
+      "Drama",
+      "Investigação"
+    ],
+    "avaliações": "4.2 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/qR7u96cUlmZ7B9jB8Yyv0teszrm.jpg",
+    "trailer": "https://www.youtube.com/watch?v=naLP5WCJzfY"
+  },
+  {
+    "nome": "Uma Família de Natal",
+    "sinopse": "Uma história comovente sobre um par de sapatos que chega a uma loja de consertos na véspera de Natal e tem um impacto profundo na vida de todos que o tocam.",
+    "ano_lancamento": "2002",
+    "nota": "7.0",
+    "categorias": [
+      "Drama",
+      "Fé",
+      "Família"
+    ],
+    "avaliações": "2.1 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Resgate de Natal",
+    "sinopse": "Uma mãe solteira e seu filho precisam salvar o Natal depois que um anjo lhes dá uma segunda chance de fazer as coisas certas durante a temporada de festas.",
+    "ano_lancamento": "2021",
+    "nota": "5.8",
+    "categorias": [
+      "Drama",
+      "Família",
+      "Fantasia"
+    ],
+    "avaliações": "500",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Anjo de Natal",
+    "sinopse": "Uma empresária cética se apaixona por um fazendeiro local que pode ou não ser um anjo enviado para restaurar seu espírito natalino.",
+    "ano_lancamento": "2009",
+    "nota": "6.5",
+    "categorias": [
+      "Romance",
+      "Fantasia",
+      "Fé"
+    ],
+    "avaliações": "1.7 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Boas Festas",
+    "sinopse": "Um cantor de boate e um fazendeiro concorrem pelo coração de uma linda artista em um pitoresco hotel que só abre nos feriados.",
+    "ano_lancamento": "1942",
+    "nota": "7.4",
+    "categorias": [
+      "Musical",
+      "Clássico",
+      "Romance",
+      "Comédia"
+    ],
+    "avaliações": "15 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Destino de Natal",
+    "sinopse": "Uma herdeira mimada precisa ir para uma pequena cidade no Alasca para receber sua herança, mas precisa cumprir uma série de tarefas antes do Natal.",
+    "ano_lancamento": "2017",
+    "nota": "5.7",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Aventura"
+    ],
+    "avaliações": "11 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Príncipe de Natal: O Casamento Real",
+    "sinopse": "A repórter Amber se prepara para se casar com o Príncipe Richard, mas o planejamento do casamento é ameaçado por uma crise política real.",
+    "ano_lancamento": "2018",
+    "nota": "5.9",
+    "categorias": [
+      "Romance",
+      "Realeza",
+      "Comédia"
+    ],
+    "avaliações": "10 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/2bLQTbFWrsunSVQsvOWZAAGACbf.jpg",
+    "trailer": "https://www.youtube.com/watch?v=Y6U-eMDmMoc"
+  },
+  {
+    "nome": "A Filha do Papai Noel",
+    "sinopse": "Uma jovem executiva de Nova York descobre que é filha de Papai Noel e deve viajar para o Polo Norte para assumir o negócio da família antes que seja tarde demais.",
+    "ano_lancamento": "1985",
+    "nota": "6.4",
+    "categorias": [
+      "Fantasia",
+      "Aventura",
+      "Família"
+    ],
+    "avaliações": "18 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Quebra-Nozes",
+    "sinopse": "Adaptação cinematográfica do famoso balé de Tchaikovsky, seguindo a jornada mágica de uma menina na véspera de Natal, onde seus brinquedos ganham vida.",
+    "ano_lancamento": "1993",
+    "nota": "6.3",
+    "categorias": [
+      "Balé",
+      "Fantasia",
+      "Musical",
+      "Família"
+    ],
+    "avaliações": "3.2 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/mKGGzL6o27cOurOO0gCUopDCxts.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7PZCAbeShow"
+  },
+  {
+    "nome": "A Árvore de Natal Mais Antiga",
+    "sinopse": "Um grupo de moradores de uma pequena cidade luta para proteger sua árvore de Natal histórica de ser derrubada por incorporadores imobiliários.",
+    "ano_lancamento": "2020",
+    "nota": "6.8",
+    "categorias": [
+      "Drama",
+      "Comunidade",
+      "Família"
+    ],
+    "avaliações": "1.1 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal na Neve",
+    "sinopse": "Uma executiva de marketing fica presa em uma cabana isolada por causa de uma nevasca, onde ela se aproxima do charmoso proprietário da cabana e descobre o verdadeiro significado do Natal.",
+    "ano_lancamento": "2019",
+    "nota": "6.4",
+    "categorias": [
+      "Romance",
+      "Isolamento",
+      "Drama"
+    ],
+    "avaliações": "2.9 mil",
+    "capa": "https://image.tmdb.org/t/p/w500/vYEpId8nCN9wcE4cXSSqG3cw82p.jpg",
+    "trailer": "https://www.youtube.com/watch?v=T40kagQELPM"
+  },
+  {
+    "nome": "Um Amor para o Natal",
+    "sinopse": "Uma mulher promete à sua família que estará noiva até o Natal e, desesperada, aceita a proposta de casamento de um estranho.",
+    "ano_lancamento": "2017",
+    "nota": "6.2",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Casamento"
+    ],
+    "avaliações": "3.5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "A Garota da Loja de Brinquedos",
+    "sinopse": "Uma criança com um profundo amor pelo Natal consegue um emprego em uma mágica loja de brinquedos antiga e descobre o espírito das festas através de um grupo de personagens peculiares.",
+    "ano_lancamento": "1986",
+    "nota": "7.1",
+    "categorias": [
+      "Fantasia",
+      "Família",
+      "Clássico"
+    ],
+    "avaliações": "900",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Um Natal de Gato",
+    "sinopse": "Uma mulher pega o avião errado a caminho de casa para o Natal e acidentalmente se encontra em uma pequena cidade diferente, onde sua vida toma um rumo inesperado e romântico.",
+    "ano_lancamento": "2013",
+    "nota": "6.7",
+    "categorias": [
+      "Romance",
+      "Comédia",
+      "Troca de Identidade"
+    ],
+    "avaliações": "2.7 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "O Caminho do Natal",
+    "sinopse": "Uma rica e mimada socialite perde tudo antes do Natal e é forçada a trabalhar como governanta em um rancho, onde aprende o valor do trabalho e da família.",
+    "ano_lancamento": "2006",
+    "nota": "6.3",
+    "categorias": [
+      "Drama",
+      "Romance",
+      "Família"
+    ],
+    "avaliações": "1.5 mil",
+    "capa": null,
+    "trailer": null
+  },
+  {
+    "nome": "Natal no Rancho",
+    "sinopse": "Uma estrela pop retorna à sua cidade natal rural para passar o Natal e reencontra um ex-namorado, descobrindo que o sucesso pode não ser a verdadeira felicidade.",
+    "ano_lancamento": "2010",
+    "nota": "6.0",
+    "categorias": [
+      "Romance",
+      "Música",
+      "Interior"
+    ],
+    "avaliações": "1.2 mil",
+    "capa": null,
+    "trailer": null
+  }
+]
