@@ -22,4 +22,4 @@ Arquivos principais:
 Status:
 - Frontend pronto. `data.json` ainda precisa ser enriquecido com URLs de `capa` e `trailer` (pendente), alguns filmes ficaram sem capa e/ou com trailer sem link.
 
-![alt text](image.png)
+<img width="1901" height="946" alt="image" src="https://github.com/user-attachments/assets/324f40e0-e4d1-4cb0-a65b-275e7cdbad36" />
